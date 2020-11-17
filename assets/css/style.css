@@ -9,7 +9,7 @@
     height: 700px;
 }
 #titulo{
-    position: relative;
+    position: absolute;
     font-style: italic;
     margin-top: 50px;
     font-size: 2em;
