@@ -23,7 +23,7 @@
     background-color: green;
 }
 .boton_off{
-    background-color: blue;
+    background-color: violet;
 }
 button>a{
     color: white;
@@ -45,11 +45,10 @@ button{
 #logo{
     content: url(/assets/image/nysl_logo.png);
     float: left;
-    width: 10%;
+    width: 30%;
     margin:30px 50px 0px 10px;
     padding-bottom: 100%;
     border-radius: 50%;
-    
 }
 #logo_2{
     display: none;
